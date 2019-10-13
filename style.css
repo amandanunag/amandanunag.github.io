@@ -1,0 +1,107 @@
+#sideNav {
+    background: #fcfcfc;
+    padding-bottom: 500px;
+    padding-top: 60px;
+    padding-left: 170px;
+    margin-top: 200px;
+    width: 500px;
+    text-align: right;
+    line-height: 14px;
+    border-right: #dbdbdb solid 1px;
+
+}
+
+#sideText {
+    font-size: 10px;
+    margin-top: 200px;
+    padding-right: 4px;
+    text-align: right;
+    border-right: #6d6d6d solid 2px;
+    color: #4f4f4f;
+
+}
+
+#link {
+    font-size: 10px;
+
+}
+
+#link a:link {
+    color: #4f4f4f;
+    font-size: 9px;
+    text-align: right;
+    line-height: -20px;
+}
+
+#link a:visited {
+    color: #7a7a7a
+}
+
+#link a:hover {
+    color: #b593bb;
+}
+
+
+.resume-header h3 {
+    color: #4f4f4f;
+    font-family:sans-serif;
+    letter-spacing:20px;
+    font-family: "Century Gothic", Century, sans-serif;
+    border-bottom: #b593bb solid 6px;
+    margin-right:78px;
+    margin-bottom:10px;
+}
+
+.resume-header {
+    font-size: 12px;
+    line-height: 0px;
+    padding-bottom:20px;
+}
+
+#maincontent {
+    padding-left: 520px;
+    padding-top: 30px;
+    padding-right:10px;
+    padding-bottom: 30px;
+    background-image: url(background.png);
+    font-size:13px;
+    line-height:20px;
+}
+
+#maincontent h5 {
+    color: #4f4f4f;
+    width: 400px;
+    border-left: #b593bb solid 8px;
+    padding-left:4px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-transform: uppercase;
+    letter-spacing:3px;
+}
+
+#bg ul{
+    list-style:square
+}
+
+#date {
+    font-family:monospace;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    font-size: 12px;
+    text-align:left;
+}
+
+
+#socials {
+    margin-left:520px;
+    padding-top: 10px;
+    padding-right:650px;
+    padding-bottom: 20px;
+    font-size:10px;
+    background: #fcfcfc;
+    border-top: #dbdbdb solid 1px;
+}
+
+#socmed {
+    padding-left:6px;
+}
